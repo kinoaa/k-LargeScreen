@@ -22,7 +22,7 @@ const mutations = {
     setSession('middle', 'middle')
     setSession('left', 'left')
   },
-  //  保存用户的所有信息
+  //  修改局部全屏
   CHANGE_PAGE(state, data) {
     console.log(data);
     state[data.page] = data.name
