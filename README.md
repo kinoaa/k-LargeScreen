@@ -1,5 +1,24 @@
-# kinoa-LargeScreen
-可视化大屏组件库
+# ledgegraph
 
-# Frame.vue为外层嵌套组件
-可自适应宽高
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
